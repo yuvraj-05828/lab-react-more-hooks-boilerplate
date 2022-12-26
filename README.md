@@ -11,15 +11,6 @@ In this exercise, the goal is to learn other types of hooks:
   1. useReducer
   2. useRef
 
-## Getting started
-
-1. Fork this repo
-2. Clone this repo
-
-Whenever you create a first significant change, you should make your first commit.
-
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
-
 
 ## Instructions
 In this lab we will try to work with other hooks like `useReducer` and  `useRef` in react.
@@ -50,5 +41,5 @@ Your task is to create a button - at the bottom of all the items, which when cli
 
 To achieve the above functionality, you need to use `useRef`.
 
-Happy Coding Kalvium ❤️!
+Happy Coding ❤️!
 
